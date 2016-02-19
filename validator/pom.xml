@@ -18,6 +18,12 @@
             <groupId>de.mirkosertic.ddd</groupId>
             <artifactId>annotation</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.google.testing.compile</groupId>
+            <artifactId>compile-testing</artifactId>
+            <version>0.6</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
