@@ -4,6 +4,8 @@ This project includes a set of useful annotation for Java based Domain-Driven De
 
 It also provides a Java Annotation Processor to enable compile-time structure verification of Java Code.
 
+[![Build Status](https://travis-ci.org/mirkosertic/DDDCompileTimeValidator.svg?branch=master)](https://travis-ci.org/mirkosertic/DDDCompileTimeValidator)
+
 # Available Annotations
 
 | Annotation | Description |
