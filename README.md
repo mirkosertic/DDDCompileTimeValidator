@@ -1,4 +1,4 @@
-# Domain-Driven Design annotations
+# Domain-Driven Design Annotations
 
 This project includes a set of useful annotation for Java based Domain-Driven Design projects.
 
